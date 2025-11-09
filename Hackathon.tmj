@@ -2273,7 +2273,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/CoCreation-World\/hackathon"
+         "value":"https:\/\/pierrelasnier83.github.io\/Hackathon\/"
         }, 
         {
          "name":"mapName",
@@ -2288,7 +2288,7 @@
         {
          "name":"tutorial",
          "type":"bool",
-         "value":true
+         "value":false
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
