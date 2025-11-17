@@ -1150,6 +1150,24 @@
                  "width":0,
                  "x":307.774227902024,
                  "y":2411.07561235357
+                }, 
+                {
+                 "height":21.84,
+                 "id":173,
+                 "name":"Check the map here",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Arial Black",
+                     "text":"Check the map here",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":187.234375,
+                 "x":598.549479166667,
+                 "y":2099.24479166667
                 }],
          "opacity":0.78,
          "type":"objectgroup",
@@ -1524,7 +1542,7 @@
          "y":0
         }],
  "nextlayerid":141,
- "nextobjectid":173,
+ "nextobjectid":174,
  "orientation":"orthogonal",
  "properties":[
         {
